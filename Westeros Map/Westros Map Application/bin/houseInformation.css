@@ -1,0 +1,17 @@
+#houseName{
+	-fx-font-family: "Aharoni";
+	-fx-font-size: 20px;
+    -fx-text-fill: BROWN;
+	-fx-effect: dropshadow(GAUSSIAN , WHITE , 4, 4 , 0 , 0 );
+	
+	}
+
+#sigilLabel, #flagColors,#wordsLabel,
+#seatLabel, #regionLabel, #coordinates, #houseMembersLabel
+{
+	-fx-font-family: "Aharoni";
+	-fx-font-size: 16px;
+    -fx-text-fill: WHITE;
+	-fx-effect: dropshadow(GAUSSIAN , BLACK , 1, 1 , 0 , 0 );
+	
+}
